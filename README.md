@@ -1,235 +1,236 @@
-# Что такое IT? Куда они пытаются войти? Выбор направления/профессии и первого языка программирования
+# What is Information Technologies? Hard to gets in? Choosing a direction/profession and your first programming language
 
-[__English__](https://github.com/v-elizarov/modern-specialist)
+[__Русский__](https://github.com/mastervlados/modern-specialist)
 
-Привет! 
+Hello! 
 
-Я Владислав Елизаров,
+I’m Vladislav Elizarov,
 
-в айти людям приходится общаться и довольно часто 
+in IT people communicate a lot
 
-Буду рад на «ты» – просто Влад!
+Good to meet you – Vlad is fine!
 
-__Возможно.. ты бы хотел работать в айти?__
+__Guess.. you'd like to work in IT?__
 
-Твое становление и твой карьерный успех всецело зависит от решений, которые ты примешь в самом начале своего пути. Это не просто сделать новичку…  
+Your formation and your career success depends on the decisions you make at the beginning of your journey. This is not easy to do for newbies.. 
 
-Мне самому потребовалось 5 лет на то, чтобы разобраться. Хотя я уже как 8 лет в этой каше.. Я смог это сделать только потому, что учился с отдачей и когда закончил институт – смог применить полученные знания
+I've spent about 5 years to figure it out by myself. However, I've already been there for 8 years.. Did it only 'cause I studied hard and when I graduated from university, I was able to apply my knowledge
 
-Теперь я студент образовательной платформы GeekBrains. Самозанятый, осваиваю современную digital профессию. Считаю своим долгом показать и рассказать другим людям как всем этим пользоваться 
+Now I am a GeekBrains's student. This is the educational platform. Self-employed, getting a modern digital profession. My duty is to show and tell people how to use all of this. I really think so 
 
-Поехали!🐌
+Flew!🐌
 
-* [Что такое IT? Входят или становятся?](#что-такое-it-входят-или-становятся)
-* [На что стоит обратить внимание в первую очередь?](#на-что-стоит-обратить-внимание-в-первую-очередь)
-* [От чего будет зависеть твой финансовый успех?](#от-чего-будет-зависеть-твой-финансовый-успех)
-* [Как стать востребованным IT-специалистом?](#как-стать-востребованным-it-специалистом)
-* [Мой авторский курс «Современный специалист»](#мой-авторский-курс-«современный-специалист»)
-* [Самое важное в одном месте (Заключение)](#самое-важное-в-одном-месте-заключение)
+* [What is Information Technologies? Enter or become?](#what-is-information-technologies-enter-or-become)
+* [There are things you should focus on first!](#there-are-things-you-should-focus-on-first)
+* [Your financial success depends on these criteria](#your-financial-success-depends-on-these-criteria)
+* [How to become a modern IT-specialist?](#how-to-become-a-modern-it-specialist)
+* [My author’s course «Modern Specialist»](#my-authors-course-«modern-specialist»)
+* [The most important thing in one place! (Conclusion)](#the-most-important-thing-in-one-place-conclusion)
 
 
 
-## Что такое IT? Входят или становятся?
-![IT вокруг нас (информация)](./assets/banner.png "IT вокруг нас (информация)")
+## What is Information Technologies? Enter or become?
+![IT is around us (information)](./assets/banner.png "IT is around us (information)")
 
-Надеюсь, что ты знаешь о том, что в нашем мире существует такая сфера занятости населения. В айти работают люди-профессионалы, не роботы. При условии, что средняя конкуренция на одно рабочее место в IT примерно 500 человек – рынку не хватает специалистов! Этот факт подтвержден и легко находится в интернете  
+Hope you know that the industry exists in our world. Where people-professionals are working, not robots. In fact the average competition for one workplace in IT is about 500 people – the market lacks specialists! This fact is confirmed. You can find and read more. It's not hard to find on the internet
 
-__Почему так?__ Дело в том, что я продолжаю встречать людей, которые не понимают куда идут и что будут делать. Причина этому – главная особенность: 
+__Why is this so?__ Be honest, I continue to meet people who do not understand where they are going and what they will do. The reason is  the main feature: 
 
-> _«IT не имеет физической оболочки как мы привыкли»_ 
+> _«IT doesn't have a physical shell as we are used to»_  
 
-Так что входить некуда.. разве что только в дверь отдела кадров, компании, где нужны специалисты  
+So there is nowhere to enter.. except only in a door of the HR department, a company where specialists are needed
 
-> Есть только один правильный путь и установка – __IT-специалистом становятся__ 
+> There's the right way and installation – you only can __become an  IT-specialist__ 
 
-Это очень важно понять!  
+This is very important to realize!  
 
-## На что стоит обратить внимание в первую очередь?
+## There are things you should focus on first!
 
-Вот список правильных вопросов:
+Here is a list with right questions:
 
-1. Что я хочу делать в IT?
+1. What I want to do in IT?
 
-2. Какое направление или профессию я выберу?
+2. Which direction or profession I choose?
 
-Если ты ответил на эти 2 вопроса, то выбор твоего 1-го языка программирования займет 2 минуты.
+If you have answered these 2 questions, then choosing your 1st programming language will take 2 minutes
 
-3. Как? Так быстро!?
+3. How? So fast!?
 
-Сам по себе вопрос «__Какой язык программирования выбрать?__» - неправильный. Почему? Просто на него нет ответа.. 
+The question itself is «__Which programming language to choose?__» - wrong. Why's that? There is simply no answer.. 
 
 Каждый язык программирования имеет свою нишу на рынке IT. И его никто не будет двигать оттуда. Это многолетняя практика и выбор людей в похожей ситуации. Из этого следует, что для твоего направления уже есть язык программирования, который показал рынку стабильность. На котором прямо сейчас пишут код 
 
-> _Совет:_ Начни писать свой!:D
+Each programming language has its own place in the market. You shouldn’t worry. No one will not move it from there. This is a long-term practice and the same choice of people in that situation. For your direction already exists a programming language that has shown the market stability. On which people are writing code right now
 
-4. Выбрал направление, но все равно не понял.. Что делать?
+> _Advice:_ Start writing yours!:D
 
-Наш мир состоит из информации. Мы каждый день работаем с ней. Информация в изначальном виде непрерывно транслируется в наш мир. Задача IT специалистов разобраться как «обуздать» или оцифровать её. Это нужно современному бизнесу.  
+4. Chose a direction, but you still miss understand.. What to do?
+
+Our world contains information. We're working with it every day. Information in its original form is continuously transmitted to our world. The goal of IT specialists is to figure out how to «know» or digitize it. Modern business needs this
 
 Когда мы управляем информацией (можем ее записать, обработать, вызывать где нужно и т.д.), то мы можем попытаться принять бизнес решение, при этом, исключать возможное участие человека из этого процесса. Это называется «__Автоматизация__». 
 
-5. Ну что? Все ради денег?
+When we can manage information (can record it, process it, call it where necessary, etc.), then we can try to make a business decision. While excluding the possible participation of a person from that process. This is called «__Automation__»
 
-Понимаю, что индустрия привлекает своими внушительными окладами. Это так, но только денежная мотивация не поможет тебе стать профессионалом. Если не придумал ничего лучше, вот моя установка:   
+5. Motivation? Just for money?
 
-> _«быть современным и востребованным специалистом, нужным своему отечеству»_
+I understand that IT industry attracts with its impressive salaries. It's true, but only monetary motivation will not help you become a professional. If you haven't come up with anything better, here's my setup:
 
-Советую прочитать мою статью до конца. Для того, чтобы тебе помочь ответить на первые 2 вопроса - я даже написал свой первый авторский курс «Современный специалист». Это компьютерная презентация (сервис Google Slides). Не переживай! Ссылка будет далее..
+> _«be a modern and in-demand specialist that is needed your country»_
 
-## От чего будет зависеть твой финансовый успех?
+Advise you to read my article to the end. In order to help you answer the first 2 questions, I created my first author's course «Modern Specialist». This is a computer presentation (Google Slides service). Don't worry! The link will be here, below..
 
-Отвечаю:
+## Your financial success depends on these criteria
 
-1. __Present Simple и Present Continuous__
+Answer:
 
-Да, есть переводчики и переведенные статьи. Но есть такое понятие «ООП» (Объектно-ориентированное программирование). Для работы с ООП нужен минимальный английский. Понимать предлоги и пару времен. Слова можно тупо выписывать и учить. Это даст вам возможность читать «сигнатуры методов» или заголовки подпрограмм.  В целом вы сможете взаимодействовать с библиотекой и расширять функционал как вашей душе угодно. Нужен инглиш..
+1. __Present Simple & Present Continuous__
 
-2. __Словарь иностранных слов__
+In Russian we have articles and content that was translated to our language. But there is such a thing as «OOP» (Object-oriented programming). To work with OOP, you need minimal English. Understand «to, in, on, etc.» and a couple of times. You can write and learn new English words. This will give you the ability to read «method signatures» or subroutine headers. In general, you'll interact with the library and expand the functionality as your heart desires. Need English..
 
-Нужно купить себе словарь и вести его. Выписывать новые слова и иногда повторять их. Когда вы пишете, то лучше запоминаете. Не нужно искать слова, которые заучить и выписать. Они будут встречаться вам по ходу. Не ленитесь и не бойтесь выписывать их себе в словарь. Нет, нельзя поставить расширение.. Нет.. Шариковая ручка, словарь. Все слова пишите в 1-й форме. Я использую [этот](https://englishmore.ru/verbs) и [этот](https://wooordhunt.ru/word/delusion) сервисы
+2. __Dictionary of English Words__
 
-3. __Идешь навстречу новому, а не отталкиваешь__
+You need to buy for yourself a dictionary and fill with a pen. Write out new words and sometimes repeat them. When you write, you remember better. You shouldn’t waste of your time and look for new words to memorize and write down. It'll appear when you're learning or studying. Don't be lazy and be positive to write them out to the dictionary. No, you can't put an extension.. no.. Ballpoint pen, dictionary. Write all words in the 1st form. I use [this](https://englishmore.ru/verbs) and [this](https://wooordhunt.ru/word/delusion) services
 
-Насколько ты был современным и не боялся пробовать новое: 
+3. __You go onward to new, and don’t push away__
 
-* устанавливать расширения для IDE
-* изучать горячие клавиши для ускорения работы
-* овладеть методом слепой печати и это не быстро
-* пользоваться методами для работы с информацией
-* использовать онлайн конвертеры, сервисы
-* искать ответы в Google и т.д.
+How modern you are and don't afraid to try new things: 
 
-4. __Насколько ты был востребованным – соблюдал чистоту и был уверен в себе__
+* install plugins and extensions for your IDE
+* learn keyboard shortcut and do your job faster 
+* learn touchtyping method and it might takes your time
+* use methods to work with information
+* use online converters, services
+* search for answers in Google, etc.
 
-![Красота и «Уродство»](./assets/social.png "Красота и «Уродство»")
+4. __How are you in-demand – shine and confident in yourself__
 
-Просто посмотри внимательно на картинку. У меня 2 **GitHub** профиля. Один **@mastervlados** и второй **@v-elizarov**. Последний, мой основной. Я не раз садился писать свой «ToDo List» для портфолио, но спустя время он становится тем, что нужно мне. Жалко выкладывать.. Я рекомендую **2 профиля**:  
+![Beauty and «Ugliness»](./assets/social.png "Beauty and «Ugliness»") 
 
-__Учебный__ – как место куда будет попадать все что не является законченным проектом. Если вы понравитесь работодателю, то можно будет показать решенные задачи по требованию
+Just look carefully at the picture. I have 2 **GitHub** profiles. One is **@mastervlados** another one is **@v-elizarov**. Last one, my main. I've sat down more than once to write my «ToDo List» for my portfolio, but after a while it becomes what I need. It's a pity to spread it.. Recommend **2 profiles**:
 
-> _Подсказка:_ Например домашние задания с курсов..   
+__Alt__ – place where you should drop all stuff that aren't complete project. If a employer like you, you always can show that code and completed tasks to her/him
 
-__Основной__ – место, куда нужно выкладывать только свое портфолио! 
+> _Hint:_ Example, your homework from courses..   
 
-> _Подсказка:_ __1__ репозиторий = __1__ проект
+__Main__ – place where you should drop your portfolio! 
 
-Работодателю не интересно! – то, как вы решаете задачи, пишете алгоритмы и т.д. Он даст на собеседовании свою задачу и будет наслаждаться вашими страданиями. Не нужно бояться этого! Через это проходят все 
+> _Hint:_ __1__ repository = __1__ project
 
-Работодатель хочет увидеть одну или пару работ со стеком технологий, что сейчас у него в проекте. Все! Не нужно делать свалку – выкладывай только законченные проекты в свой основной профиль
+Employers aren't interested! – how you solve tasks, write algorithms, etc. He/she give you their task at an interview and will enjoy your suffering. Try to not be scare! Everyone goes through this
 
-> __Законченный проект__ = __1__ законченное __дело__ = умение доводить начатое __до конца__  
+Employers want to see one or couple of projects with the technology stack which currently uses in their projects. That's it! Manage your garbage please – post only completed projects to your main profile
 
-5. __Твой уровень знания технологии и своего дела__
+> __Completed project__ = __1__ finished __business__ = ability to __finish what__ you __started__
 
-Не просто так это стоит на 5-м месте. Все всё понимают и это то, чем ты будешь заниматься на работе. Работодатель хочет быть уверен в том, что ты стоишь времени и денег. Первые 6 месяцев ты будешь приносить убытки компании и они будут вкладывать в тебя только если ты современный и востребованный!
-## Как стать востребованным IT-специалистом?
+5. __Your level of knowledge about the main technology and business__
 
-[![IMAGE_ALT](./assets/video.png)](https://youtu.be/Bw3svqoDJG4)
+It's no accident here (5th place). Everyone understands everything and this is what you'll do at work. Employers want to be sure that you are worth time and money. For the first 6 months in your first job you'll bring losses to a company. They will invest only if you are modern and in-demand!
 
-Есть несколько известных мне способов:
+## How to become a modern IT-specialist?
 
-* __Пойти учиться в институт и получить профильное высшее образование__ 
+[![IMAGE_ALT](./assets/video.png)](https://youtu.be/wUiY9SSor5I)
 
-Вам подойдет этот вариант если вы совсем молоды и достаточно умны для этого. Поступайте на дневное (очное) и учитесь с отдачей. Обязательно пробуйте свои силы поступать на бюджет!
+I know several options for how to do this:
 
-> _«Для того, чтобы построить карьеру в IT __нужно__ высшее образование»_
+* __Travel to study in a university and get specialized hight education__ 
 
-* __Закончить платные курсы и получить документ государственного образца__
+This is your option if you are young and smart enough for this. Apply in full-time (day-time) and study hard. Be sure to try applying for a budget!
 
-Этот вариант подходит людям с непрофильным высшим образованием и тем, кто еще не получил высшее образование вовсе. Тем, кто хочет сменить направление или перейти работать в IT из другой сферы. В любом случае вас будут называть свитчер:D
+> _«To build your career in IT you __need__ higher education»_
 
-> _«Для того, чтобы стать IT-специалистом __не нужно__ высшее образование»_
+* __Complete commercial IT courses and get a diploma__
 
-Начинающему IT-специалисту нужно основание в соответствии с которым работодатель будет понимать какой специалист пришел и какую работу ему можно доверить  
+This option is suitable for people with non-core higher education and who haven't yet received higher education at all. For people who want to change direction or go to work in IT from another field. Anyway you'll be called switcher:D
 
-> _Подсказка:_ Нужен __документ__, который подтвердит вашу принадлежность к IT
+> _«To become an IT-specialist you __don’t need__ higher education»_
 
-Скажу пару слов про самообучение. Ты можешь самостоятельно изучать технологию, статью или любой другой ресурс для того, чтобы решить проблему. Когда ты ставишь перед собой задачу стать IT специалистом через самообучение – в итоге ты рискуешь окончательно потерять мотивацию
+IT-specialist, newbie needs to get a proof. With that proof employers will understand which specialist and what kind of work can be entrusted
 
-На курсах у тебя:
+> _Hint:_ Need a __document__ that confirm your attitude to IT
 
-* Будут дедлайны (сроки выполнения работ)
+Say a few words about self-learning. You can learn a technology, article or any other resource in order to solve a problem by yourself. When you set yourself the task of becoming an IT specialist through self-learning - as a result, you risk finally losing motivation
 
-* Будет программа обучения и конечная цель
+In courses you'll have:
 
-* Есть возможность обратиться за помощью к:
-    * наставнику 
-    * преподавателю 
-    * студенту (сокурстнику)
+* Deadlines (days when you have to finish tasks)
 
-* Будут семинары (на них нужно тянуть руку и говорить я сделал!)
+* Training program and the end goal
 
-> В конце вы получите __документ__, который имеет __ценность__ и __основание__ для работодателей рассматривать вашу кандидатуру на соответствующую позицию  
+* Opportunity to seek help from a:
+    * mentor 
+    * teacher
+    * student (classmates)
 
-__Когда попадаешь на курсы нужно быть проактивным__
+* Seminars (you need to pull your hand and say I did it!)
 
-Вы будете зачислены в поток и ваша задача – познакомиться, __найти друзей__. Обсуждать домашние задания. Помогать другим решать то, что получилось у вас и не получилось у другого. Всегда помните, что для каждого из вас процесс обучения является индивидуальным. __Не нарушайте границы__ другого человека если вы знаете больше  
+> In the end, you receive a __document__ that has business __value__ and the __basis__ for employers to consider your CV for an appropriate position
 
-> Вам будут проводить __ревью вашего кода__ и оставлять комментарии 
+__When you get inside courses, you need to be proactive__
 
-Нужно выписывать замечания и прорабатывать их. Помните, что это не просьба.. В итоге, ваша __цель__ – это знания, практические навыки, друзья и законченные проекты в паре с кем-то (командный опыт работы). 
+You’ll be enrolled in a group and you should - befriend, __find friends__. Discuss homework. To help others solve what worked for you and failed for another. Always remember that the learning process is individual for each of you. __Do not violate__ the boundaries of another person if you know more
 
-> __Документ__ – это __доказательство__ вашей __цели__ 
+> You'll have a __code review__ and leave comments
 
-Настоятельно рекомендую избавляться (прекращать общение) в свой жизни от людей, которые не заинтересованы в развитии и будут сбивать вас с толку. Когда попадете на курсы - остерегайтесь скептиков. Вам не нужно пытаться им помочь - это задача психологов.. Скептики - это люди, которые закрыты для этого мира и его возможностей. Ваша задача пройти мимо них - стать специалистом и получить работу
+You need to write out comments and work through them. Remember, this is not a request.. As a result, your __goal__ is knowledge, practical skills, friends and completed projects paired with someone (team work experience)
 
-> Повторю, что только __открытый__ этому миру, технологиям и возможностям __человек__ - может добиться результатов в IT и не только.. 
+> __Document__ – is a __proof__ of your __goal__ 
 
+I recommend you don't communicate with people who don't interested of develop yourself like you. They'll stop and hate you. You should stop communicating with them. When you enter a course - avoid skeptics. You shouldn't try to help them - this is psychologies duty.. Skeptics aren't close-to-this-world-people and any opportunities. Your main task is to walk past and don't touch them - become an IT-specialist and get a job
 
-На курсах вас обязательно познакомят с другими языками программирования! Стоит сказать, что это сильно ударит по вашей зоне комфорта если вы выбрали на всю жизнь только один.. Я даже писал и спорил по этому поводу в поддержку и по телефону. Отсюда берутся негативные отзывы об образовательных платформах..  
+> Say it again - only __open__ to this world, technology and opportunities a __person__ - might get result in IT and not for only.. 
 
-__Я разобрался!__
+Courses definitely introduce you to other programming languages! It will hit your comfort zone hard if you have chosen only one for life. Even wrote and talked about it in support and on the phone. This is a step where negative feedback about educational platforms come from..
 
-Ваш __основной язык__ будет тот, на котором вы будете работать с __framework’ами__ (это друзья), соблюдать особенности написания программ, читать комьюнити посты и т.д. Нет __ничего плохого__ в том, чтобы поработать с другими языками программирования. Это поможет (со временем) видеть недостатки своего основного языка.. 
+__Got it!__
 
-Философия первого языка программирования заключается в том, чтобы человеку было комфортно бороться с трудностями освоения смежных дисциплин и программирования в самом начале пути. В жизни приходится работать с разными языками - они как инструменты. Землю можно копать болгаркой (С++) или лопатой (Python) 
+Your __main programming language__ is that one you'll work with __frameworks__ (friends), observe specifics of writing programs, read community posts, etc. There is __nothing wrong__ working with other programming languages. This help you (over time) see shortcomings of your main language..
 
-## Мой авторский курс «Современный специалист»
+Philosophy of your first programming language is to help you fight with with difficulties in learning related disciplines and programming at the beginning of the journey. In real you have to work with different languages - they are like tools. The earth can be dug with a grinder tool (C++) or a shovel (Python)
 
-Твое становление и твой карьерный успех всецело зависит от решений, которые ты примешь в самом начале своего пути. Это не просто сделать новичку.. По этой причине я собрал и подготовил для тебя ответы на вопросы, которые я задавал себе в начале своего пути. 
+## My author’s course «Modern Specialist»
 
-Будет здорово, если после моей презентации у тебя появится интерес к айти и ты начнешь искать дополнительный материал самостоятельно. Развивать первый необходимый навык для будущей работы – __умение находить информацию__
+Your formation and your career success depends on the decisions you make at the beginning of your journey. This is not easy to do for newbies.. For this reason I've grabbed and prepared for you answers to questions. I asked myself these questions at the beginning of my journey
 
-![Слайд из презентации «Современный специалист». Направления в IT](./assets/slide_10.png "Слайд из презентации «Современный специалист». Направления в IT")
+Be cool, if you show interest to IT-industry after my presentation. Start find for additional info by yourself. Learn your first necessary skill for your future job - __finding information__
 
-Курс «__Современный специалист__» – это интерактивная презентация. Это значит, что она содержит кнопки, на которые можно нажимать, и ссылки по которым можно переходить. __Курс закончен__ и у тебя полный доступ к информации!
+![Slide from «Modern specialist» presentation. IT-directions & professions](./assets/slide_10.png "Slide from «Modern specialist» presentation. IT-directions & professions")
 
-__RU__ | Современный Специалист:
+Course «__Modern Specialist__» is an interactive presentation. Means, it contains buttons, you should click on them and links you can travel. It has been __finished__ and you have full access to info!
 
-https://docs.google.com/presentation/d/13mixCcpW-vKov8ukCU_wsSGjWTBniM0x2f9-6G_bMnc/edit?usp=sharing 
 
 __EN__ | Modern Specialist:
 
 https://docs.google.com/presentation/d/1BWUftfRBaaCmF9J62uKrn48FwWayoTl2Q8Gagu-rChU/edit?usp=sharing
 
-![Слайд из презентации «Современный специалист». Содержание курса](./assets/slide_3.png "Слайд из презентации «Современный специалист». Содержание курса")
+![Slide from «Modern specialist» presentation. Course content](./assets/slide_3.png "Slide from «Modern specialist» presentation. Course content")
 
-> _Совет:_ Не торопись и посмотри содержание моего курса!  
+> _Advice:_ Take your time and inspect the photo above!  
 
-Это поможет тебе быть эффективным уже со старта! Внутри ты найдешь мой метод ведения конспектов и другие подарки! Не бойся печатать и пользоваться. Обязательно попробуй! Быть открытым новому - навык, который пригодится для освоения любой IT профессии! и не только..
+This gonna help you to be effective from the start! You find my method of writing lecture notes and other gifts inside! Don't be afraid to print and use it. Worth to try! Be open for new - skill you need to be any IT-profession! not for only..
 
-![Слайд из презентации «Современный специалист». Метод ведения конспектов и рефлексия](./assets/slide_29.png "Слайд из презентации «Современный специалист». Метод ведения конспектов и рефлексия")
-
-
-
-## Самое важное в одном месте (Заключение)
-
-В отличии от большинства YouTube деятелей, вместо того, чтобы еще раз показывать как пишется «ToDo List» – на своем канале я показываю как получать результаты и добиваться поставленных целей. Быть уверенным в себе. Мне приятно делиться с вами своим опытом и методами работы с информацией
-
-В нашем деле (как и в любом другом) есть вредные, негативные факторы:
-
-* Стресс
-* Давление
-* Выгорание
-* Простой (прокрастинация)
-* Синдром вечного студента
-* Синдром самозванца
-
-Каждый пункт приводит к потере мотивации. Что самое опасное – они работают сообща. Лично и неоднократно сталкивался с ними. Со временем я выработал защиту против них. Так что скоро у меня будет полезный материал для тебя!
-
-Я общаюсь с людьми по всему миру и задаю им вопросы. Учусь на современных онлайн-платформах. Делаю это для того, чтобы предоставить тебе полезную информацию о современном айти. Помочь тебе разобраться и присоединиться!
-
-_Благодарю, Влад_
+![Slide from «Modern specialist» presentation. Method of writing lecture notes & reflection](./assets/slide_29.png "Slide from «Modern specialist» presentation. Method of writing lecture notes & reflection")
 
 
-[__YouTube__](https://www.youtube.com/@gpwsmv) | [__ВКонтакте__](https://vk.com/ultimatrue) | [__Статья на GitHub__](https://github.com/mastervlados/modern-specialist)
+
+## The most important thing in one place! (Conclusion)
+
+There are enough bloggers and teachers who teach how to build «ToDo List» app. In my YouTube channel I focus on how get results and achieve goals. Be confident in yourself. I am friendly to share with you my experience and methods of working with information 
+
+In our business (as in any other) there are harmful, negative factors:
+
+* Stress
+* Pressure
+* Burn out
+* Stagnation (Procrastination)
+* Student syndrome
+* Impostor syndrome
+
+Each factor leads to a loss of motivation. The most dangerous thing is they work together. Personally, more than one time encountered them. Over time, I protected myself and developed a defense against them. I gonna share how it possible to do 
+
+I talk with people around this world and ask them questions. I’m studying at modern online-platforms. Doing this to provide you useful info about modern IT. To help you figure and join!
+
+_Cheers, Vlad_
+
+
+[__YouTube__](https://www.youtube.com/@gpwsmv) | [__ВКонтакте__](https://vk.com/ultimatrue) | [__Article on GitHub__](https://github.com/v-elizarov/modern-specialist)
