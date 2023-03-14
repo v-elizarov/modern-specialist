@@ -68,8 +68,6 @@ Each programming language has its own place in the market. You shouldn’t worry
 
 Our world contains information. We're working with it every day. Information in its original form is continuously transmitted to our world. The goal of IT specialists is to figure out how to «know» or digitize it. Modern business needs this
 
-Когда мы управляем информацией (можем ее записать, обработать, вызывать где нужно и т.д.), то мы можем попытаться принять бизнес решение, при этом, исключать возможное участие человека из этого процесса. Это называется «__Автоматизация__». 
-
 When we can manage information (can record it, process it, call it where necessary, etc.), then we can try to make a business decision. While excluding the possible participation of a person from that process. This is called «__Automation__»
 
 5. Motivation? Just for money?
