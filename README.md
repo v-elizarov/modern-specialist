@@ -58,8 +58,6 @@ If you have answered these 2 questions, then choosing your 1st programming langu
 
 The question itself is «__Which programming language to choose?__» - wrong. Why's that? There is simply no answer.. 
 
-Каждый язык программирования имеет свою нишу на рынке IT. И его никто не будет двигать оттуда. Это многолетняя практика и выбор людей в похожей ситуации. Из этого следует, что для твоего направления уже есть язык программирования, который показал рынку стабильность. На котором прямо сейчас пишут код 
-
 Each programming language has its own place in the market. You shouldn’t worry. No one will not move it from there. This is a long-term practice and the same choice of people in that situation. For your direction already exists a programming language that has shown the market stability. On which people are writing code right now
 
 > _Advice:_ Start writing yours!:D
